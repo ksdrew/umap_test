@@ -1,4 +1,4 @@
-umap
+umap-learn
 plotly==4.1.0rc1
 numpy
 pandas
